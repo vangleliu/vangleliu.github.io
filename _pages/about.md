@@ -1,7 +1,7 @@
 ---
 layout:    about
 permalink: "/about/"
-author:    Vangle Liu
+author:    jwillmer
 keywords:  about person demo example
 title:     About Vangle Liu
 menutitle: About
