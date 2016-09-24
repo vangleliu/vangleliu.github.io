@@ -3,7 +3,7 @@ layout:    about
 permalink: "/about/"
 author:    jwillmer
 keywords:  about person demo example
-title:     About Vangle Liu
+title:     About Jens Willmer
 menutitle: About
 weight:    65
 excerpt:   This page contains the curriculum vitae (CV) of the author.
@@ -12,6 +12,7 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
 ## Profile
 
 A student in SJTU. Well, nothing special.
+
 ---
 
 ## Skills
