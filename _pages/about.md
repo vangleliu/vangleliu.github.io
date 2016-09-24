@@ -3,7 +3,7 @@ layout:    about
 permalink: "/about/"
 author:    jwillmer
 keywords:  about person demo example
-title:     About Jens Willmer
+title:     About Vangle Liu
 menutitle: About
 weight:    65
 excerpt:   This page contains the curriculum vitae (CV) of the author.
