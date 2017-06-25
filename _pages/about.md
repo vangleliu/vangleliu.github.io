@@ -11,13 +11,13 @@ excerpt:   This page contains the curriculum vitae (CV) of the author.
 
 ## Profile
 
-A student in SJTU. Well, nothing special.
+A student in SJTU.
 
 ---
 
 ## Skills
 
-Nothing.
+Programming. Good at C++ and JAVA.
 
 ---
 
