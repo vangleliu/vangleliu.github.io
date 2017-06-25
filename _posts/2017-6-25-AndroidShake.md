@@ -1,19 +1,19 @@
 ---
 layout:            post
-title:             "AndroidShake--a simple demo of how to use sensors in Android"
-menutitle:         "AndroidShake--a simple demo of how to use sensors in Android"
+title:             "AndroidShake--a simple demo of sensor usage in Android"
+menutitle:         "AndroidShake--a simple demo of sensor usage in Android"
 category:          Programming
 author:            vangle
 tags:              Android demo
 ---
 
-最近为了给工科创课程写指导书，写了一个demo关于如何使用安卓上的传感器。
+最近为了给工科创课程写指导书，写了一个关于如何使用安卓上传感器的demo。
 
 功能：使用加速度传感器，检测用户“摇一摇”的动作，用户每摇一次手机，counter的数值加一。
 
 用户在摇手机时，手机加速度的pattern如下：
 
-![My helpful screenshot]({{ site.url }}/assets/shakepattern.png)
+![My helpful screenshot](/assets/shakepattern.png)
 
 检测“摇一摇”动作的代码如下：
 
